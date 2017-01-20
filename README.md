@@ -22,5 +22,5 @@ Keeps track of which rune rocks you have mined in which worlds. These worlds the
 
 Graphic overlay to show xp rates. Designed for when the user is performing repetative banking tasks. A hot key can be set up (Such as ESC) so that when the user exits the bank a new cycle starts and values are calculated. The user has to preselect these values.
 
-<img src="https://github.com/freshollie/RunescapePrograms/raw/master/screenshots/runescape_paint.PNG" alt="Paint" width="200"/>
+<img src="https://github.com/freshollie/RunescapePrograms/raw/master/screenshots/runescape_paint.PNG" alt="Paint" width="400"/>
 
