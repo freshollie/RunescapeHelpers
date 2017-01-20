@@ -11,9 +11,25 @@ All source is run under python 3.x
 <img src="https://github.com/freshollie/RunescapePrograms/raw/master/screenshots/puzzle_box_simulator.PNG" align="right" alt="Puzzle Box Simulator" width="200"/>
 Written purely for fun this simulates how a clue scroll puzzle box is played in real runescape (Including input lagg ;))
 
+
+
+
+
+
+
+
+
 ###Runescape Mining helper
 <img src="https://github.com/freshollie/RunescapePrograms/raw/master/screenshots/runescape_mining_helper.PNG" align="left" alt="Mining Helper" width="200"/>
 Keeps track of which rune rocks you have mined in which worlds. These worlds then light up as green when the rock is availible so that the user can know to hope to those worlds again
+
+
+
+
+
+
+
+
 
 ###Runescape Paint
 
